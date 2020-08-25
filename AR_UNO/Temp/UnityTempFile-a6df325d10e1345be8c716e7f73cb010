@@ -76,6 +76,8 @@
 /reference:"/Applications/Unity/Hub/Editor/2019.4.8f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll"
 /reference:"/Applications/Unity/Hub/Editor/2019.4.8f1/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll"
 /reference:"/Applications/Unity/Hub/Editor/2019.4.8f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll"
+/reference:"/Users/parthitpatel/Desktop/PersonalProjects/ARProjects/UdemyProjects/ARApps-/AR_UNO/Packages/com.ptc.vuforia.engine/Vuforia/Plugins/Managed/Runtime/Vuforia.UnityExtensions.dll"
+/reference:"/Users/parthitpatel/Desktop/PersonalProjects/ARProjects/UdemyProjects/ARApps-/AR_UNO/Packages/com.ptc.vuforia.engine/Vuforia/Plugins/Managed/Editor/Vuforia.UnityExtensions.Editor.dll"
 /reference:"/Users/parthitpatel/Desktop/PersonalProjects/ARProjects/UdemyProjects/ARApps-/AR_UNO/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll"
 /reference:"/Applications/Unity/Hub/Editor/2019.4.8f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll"
 /reference:"/Applications/Unity/Hub/Editor/2019.4.8f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Common.dll"
