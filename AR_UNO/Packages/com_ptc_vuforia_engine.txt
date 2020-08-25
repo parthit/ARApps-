@@ -1,0 +1,1 @@
+This is supposed to be a folder that contains the package that you can download from the Vuforia Engine Website.
