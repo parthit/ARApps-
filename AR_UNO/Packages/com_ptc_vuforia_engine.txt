@@ -1,1 +1,3 @@
 This is supposed to be a folder that contains the package that you can download from the Vuforia Engine Website.
+
+https://library.vuforia.com/content/vuforia-library/en/articles/Solution/vuforia-engine-package-hosting-for-unity.html
