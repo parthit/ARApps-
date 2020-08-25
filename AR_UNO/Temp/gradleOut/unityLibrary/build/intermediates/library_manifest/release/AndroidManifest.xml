@@ -11,9 +11,6 @@
         android:targetSdkVersion="28" />
 
     <uses-feature android:glEsVersion="0x00030000" />
-    <uses-feature
-        android:name="android.hardware.vulkan.version"
-        android:required="false" />
 
     <uses-permission android:name="android.permission.CAMERA" />
 
@@ -69,7 +66,7 @@
             android:value="portrait|landscape" />
         <meta-data
             android:name="unity.build-id"
-            android:value="175f6d2e-a733-48e0-84c4-68bab5bcba9f" />
+            android:value="5d169e04-dc50-4ce5-b323-74e9cd8caa09" />
         <meta-data
             android:name="com.google.ar.core"
             android:value="optional" />
