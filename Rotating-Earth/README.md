@@ -1,9 +1,3 @@
-# AR App that projects a rotating earth on a writing pad
-
-Demo app to check out how to import models and write simple C# scripts
-
-Can be expanded later
-
-### Uses Unity 2018.2.5f1 
-
-### Later projects used in this repo use Unity 2019.4.8f1
+version https://git-lfs.github.com/spec/v1
+oid sha256:f02abc64f5a91eec5166bc970bfecea418e22d1e0b482bf2dd6f7a3c00ab086c
+size 239
