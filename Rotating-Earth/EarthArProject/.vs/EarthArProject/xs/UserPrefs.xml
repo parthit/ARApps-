@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{A35EDBB5-7F07-7654-DCEA-D0124850B74B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Rotation.cs">
+    <Files>
+      <File FileName="Assets/Rotation.cs" Line="7" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EarthArProject" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Rotation.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="cbb44a57-8a2a-499a-8a8a-0fc41cfb13e2" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
