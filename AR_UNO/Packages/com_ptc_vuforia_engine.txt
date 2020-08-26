@@ -1,3 +1,0 @@
-This is supposed to be a folder that contains the package that you can download from the Vuforia Engine Website. But Git has a limit of 100Mb files. I tried using Git LFS of upload the large files, but ran into issues. That's why I have mentioned the package in .gitignore.
-
-https://library.vuforia.com/content/vuforia-library/en/articles/Solution/vuforia-engine-package-hosting-for-unity.html
