@@ -18,8 +18,7 @@ using Vuforia;
 public class DefaultTrackableEventHandler : MonoBehaviour, ITrackableEventHandler
 {
     #region PROTECTED_MEMBER_VARIABLES
-
-    public GameObject go;
+    public GameObject aeroplane, cloud; 
     protected TrackableBehaviour mTrackableBehaviour;
     protected TrackableBehaviour.Status m_PreviousStatus;
     protected TrackableBehaviour.Status m_NewStatus;
@@ -30,9 +29,17 @@ public class DefaultTrackableEventHandler : MonoBehaviour, ITrackableEventHandle
 
     protected virtual void Start()
     {
+        if ((mTrackableBehaviour==null) && (GetComponent<TrackableBehaviour>()!=null)){
         mTrackableBehaviour = GetComponent<TrackableBehaviour>();
         if (mTrackableBehaviour)
             mTrackableBehaviour.RegisterTrackableEventHandler(this);
+
+        aeroplane.SetActive(false);
+        cloud.SetActive(false);
+        }
+        else{
+            Debug.LogWarning("There is something wrong, I dont know what");
+        }
     }
 
     protected virtual void OnDestroy()
@@ -59,6 +66,11 @@ public class DefaultTrackableEventHandler : MonoBehaviour, ITrackableEventHandle
         Debug.Log("Trackable " + mTrackableBehaviour.TrackableName + 
                   " " + mTrackableBehaviour.CurrentStatus +
                   " -- " + mTrackableBehaviour.CurrentStatusInfo);
+
+        if(mTrackableBehaviour.TrackableName == "PLANE"){
+            aeroplane.SetActive(true);
+            cloud.SetActive(true);
+        }
 
         if (newStatus == TrackableBehaviour.Status.DETECTED ||
             newStatus == TrackableBehaviour.Status.TRACKED ||
@@ -126,6 +138,11 @@ public class DefaultTrackableEventHandler : MonoBehaviour, ITrackableEventHandle
             // Disable canvas':
             foreach (var component in canvasComponents)
                 component.enabled = false;
+
+            if(mTrackableBehaviour.TrackableName == "PLANE"){
+            aeroplane.SetActive(false);
+            cloud.SetActive(false);
+        }
         }
     }
 
