@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{15A8B440-B3F4-6B64-E498-187EE29266F0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/RotateSpheres.cs">
+    <Files>
+      <File FileName="Assets/Scripts/RotateSpheres.cs" Line="7" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UnityBasics" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="RotateSpheres.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="db6323be-c094-47a1-bef6-8c7546db9ddc" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
