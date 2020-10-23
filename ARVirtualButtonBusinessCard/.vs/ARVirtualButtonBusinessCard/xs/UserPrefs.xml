@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{D0BFC7EE-A541-244B-CF49-829DF0F7DAAF}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/VirtualButtonScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/VirtualButtonScript.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ARVirtualButtonBusinessCard" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="VirtualButtonScript.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="92977f05-ee68-4208-a1f3-f6966e07c408" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
