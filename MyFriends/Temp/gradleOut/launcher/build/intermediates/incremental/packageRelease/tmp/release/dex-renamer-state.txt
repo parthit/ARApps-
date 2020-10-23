@@ -1,0 +1,4 @@
+#Fri Oct 23 15:52:42 IST 2020
+base.0=/Users/parthitpatel/Desktop/PersonalProjects/ARProjects/UdemyProjects/ARApps-/MyFriends/Temp/gradleOut/launcher/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
